@@ -11,6 +11,15 @@ The ECU uses an open hardware flight controller - [Apogee](http://wiki.paparazzi
 
 You can build it yourself or buy it from [alibaba](https://www.alibaba.com/product-detail/paparazzi-apogee-UAV-Flight-Control-ppz_60277228722.html). Technically any other flight controller with enough peripherals can be used.
 
+## uPy Snippet to get some telemetry values on the remote screen
+
+```
+import app
+a = app.get()
+a.tc_temp()
+a.jeti_ex_sensors((30000, 35, 1501, 200, 40,30,1,20,30,40))
+```
+
 ## SConscript example using pila features
 link to snippet https://paste.ubuntu.com/24802002/
 
