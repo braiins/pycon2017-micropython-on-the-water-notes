@@ -1,7 +1,7 @@
 # Links
 
 - [Presentation](micropython-on-the-water.pdf)
-- ![PILA Logo](saw64.png) [Pila - the Scons Tool](https://github.com/braiins/pila.git) - a free logo taken from https://pixabay.com/en/saw-tool-wood-carpentry-147284/
+- ![PILA Logo](saw-64.png) [Pila - the Scons Tool](https://github.com/braiins/pila.git) - a free logo taken from https://pixabay.com/en/saw-tool-wood-carpentry-147284/
 
 ## The ECU board used
 
