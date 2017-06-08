@@ -1,0 +1,49 @@
+[file]
+micropython-on-the-water.pdf
+[font_size]
+24133
+[notes]
+### 1
+- background
+- problems in industry, no developers
+- what is micropython
+
+### 2
+- shorter develtime
+- more flexibility
+- still realtime
+
+### 3
+- super charger
+
+### 5
+- RED = hard realtime deadlines
+- BLUE = low priority
+
+### 9
+- C-extension modules - registration
+- the asynchronous construct can be used but...
+
+
+### 10
+- duplicate HAL
+- too much reflection in drivers
+- unsable in industry
+- build system...
+
+### 11
+-
+
+### 12
+
+- PILA features
+- optional CMake generation - supported in IDE's
+
+### 13
+- makefile still limitted
+- code generation needs
+
+### 14
+- a bit more verbose than kernel makefile's
+- snippet https://paste.ubuntu.com/24802002/
+
